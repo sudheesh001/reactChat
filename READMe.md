@@ -1,3 +1,8 @@
+# React Chat
+Using React.js , Socket.io to build a chat application with the functionality of guest users, renaming users and sending data to other users who are in the same chat room
+
+Todo - Chat room support
+
 ## Running it
 
 ```
